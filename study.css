@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    font-family: "Bebas Neue", serif;
+}
+
+body{
+    background-color: black;
+    color: beige;
+}
+
+header img{
+    width: 50px;
+    border: 5px ridge bisque;
+    border-radius: 50%;
+}
+
+
+
